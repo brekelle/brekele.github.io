@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'jekyll-feed'
-gem 'jekyll-sitemap'
+gem "jekyll"
+gem "minima"
+gem "jekyll-feed"
